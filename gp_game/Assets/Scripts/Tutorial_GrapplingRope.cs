@@ -2,24 +2,24 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Rope : MonoBehaviour
+public class Tutorial_GrapplingRope : MonoBehaviour
 {
     [Header("General Refernces:")]
-    public GrappleGun grapplingGun;
+    public Tutorial_GrapplingGun grapplingGun;
     public LineRenderer m_lineRenderer;
 
     [Header("General Settings:")]
     [SerializeField] private int percision = 40;
-    [Range(0, 20)] [SerializeField] private float straightenLineSpeed = 5;
+    [Range(0, 20)][SerializeField] private float straightenLineSpeed = 5;
 
     [Header("Rope Animation Settings:")]
     public AnimationCurve ropeAnimationCurve;
-    [Range(0.01f, 4)] [SerializeField] private float StartWaveSize = 2;
+    [Range(0.01f, 4)][SerializeField] private float StartWaveSize = 2;
     float waveSize = 0;
 
     [Header("Rope Progression:")]
     public AnimationCurve ropeProgressionCurve;
-    [SerializeField] [Range(1, 50)] private float ropeProgressionSpeed = 1;
+    [SerializeField][Range(1, 50)] private float ropeProgressionSpeed = 1;
 
     float moveTime = 0;
 

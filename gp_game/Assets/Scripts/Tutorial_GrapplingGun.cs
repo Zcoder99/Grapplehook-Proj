@@ -2,10 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GrappleGun : MonoBehaviour
+public class Tutorial_GrapplingGun : MonoBehaviour
 {
     [Header("Scripts Ref:")]
-    public Rope grappleRope;
+    public Tutorial_GrapplingRope grappleRope;
 
     [Header("Layers Settings:")]
     [SerializeField] private bool grappleToAll = false;
@@ -25,7 +25,7 @@ public class GrappleGun : MonoBehaviour
 
     [Header("Rotation:")]
     [SerializeField] private bool rotateOverTime = true;
-    [Range(0, 60)] [SerializeField] private float rotationSpeed = 4;
+    [Range(0, 60)][SerializeField] private float rotationSpeed = 4;
 
     [Header("Distance:")]
     [SerializeField] private bool hasMaxDistance = false;
