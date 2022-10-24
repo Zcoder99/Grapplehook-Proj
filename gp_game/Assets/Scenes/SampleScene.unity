@@ -602,6 +602,7 @@ MonoBehaviour:
 >>>>>>> parent of 9abea73 (added grapplehook)
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 2655505060201611074, guid: a4b4a6d32bcb19248a754d6602ffc7e4, type: 3}
@@ -619,6 +620,8 @@ MonoBehaviour:
     - target: {fileID: 7338800832668854036, guid: a4b4a6d32bcb19248a754d6602ffc7e4, type: 3}
       propertyPath: m_DampingRatio
 =======
+=======
+>>>>>>> parent of 9b2c782 (Grapple works)
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
