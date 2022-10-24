@@ -415,6 +415,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 0.332, y: 0.72, z: 0}
 =======
   m_LocalPosition: {x: 0.543, y: -0.009, z: 0}
@@ -425,6 +426,9 @@ Transform:
 =======
   m_LocalPosition: {x: 0.543, y: -0.009, z: 0}
 >>>>>>> parent of ec4fbd6 (Fire point position)
+=======
+  m_LocalPosition: {x: 0.533, y: -0.048, z: 0}
+>>>>>>> parent of d9bfc85 (commit before recommit change)
 =======
   m_LocalPosition: {x: 0.533, y: -0.048, z: 0}
 >>>>>>> parent of d9bfc85 (commit before recommit change)
@@ -994,6 +998,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Radius: 0.3895815
 =======
   m_GameObject: {fileID: 1864521412}
@@ -1034,6 +1039,9 @@ CircleCollider2D:
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
 >>>>>>> parent of 9abea73 (added grapplehook)
+=======
+  m_Radius: 0.5
+>>>>>>> parent of d9bfc85 (commit before recommit change)
 =======
   m_Radius: 0.5
 >>>>>>> parent of d9bfc85 (commit before recommit change)

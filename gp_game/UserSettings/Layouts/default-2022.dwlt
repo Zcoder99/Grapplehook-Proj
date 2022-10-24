@@ -15,8 +15,13 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 13
     y: 51
+=======
+    x: 1920
+    y: 43
+>>>>>>> parent of d9bfc85 (commit before recommit change)
 =======
     x: 1920
     y: 43
@@ -47,8 +52,13 @@ MonoBehaviour:
     x: 184
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 500
     height: 621
+=======
+    width: 351
+    height: 657
+>>>>>>> parent of d9bfc85 (commit before recommit change)
 =======
     width: 351
     height: 657
@@ -77,6 +87,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 172
     y: 0
     width: 1508
@@ -84,12 +95,17 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
 =======
+=======
+>>>>>>> parent of d9bfc85 (commit before recommit change)
     x: 0
     y: 30
     width: 1680
     height: 917
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
+<<<<<<< HEAD
+>>>>>>> parent of d9bfc85 (commit before recommit change)
+=======
 >>>>>>> parent of d9bfc85 (commit before recommit change)
   vertical: 0
   controlID: 47
@@ -110,6 +126,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 621
     width: 1680
     height: 296
@@ -117,12 +134,17 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10021}
   m_ActualView: {fileID: 13}
 =======
+=======
+>>>>>>> parent of d9bfc85 (commit before recommit change)
     y: 0
     width: 184
     height: 657
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
+<<<<<<< HEAD
+>>>>>>> parent of d9bfc85 (commit before recommit change)
+=======
 >>>>>>> parent of d9bfc85 (commit before recommit change)
   m_Panes:
   - {fileID: 15}
@@ -136,6 +158,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_EditorHideFlags: 0
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
@@ -189,6 +212,8 @@ MonoBehaviour:
   m_Enabled: 1
 =======
 >>>>>>> parent of d9bfc85 (commit before recommit change)
+=======
+>>>>>>> parent of d9bfc85 (commit before recommit change)
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: ProjectBrowser
@@ -198,6 +223,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 0
     width: 172
     height: 621
@@ -205,12 +231,17 @@ MonoBehaviour:
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
 =======
+=======
+>>>>>>> parent of d9bfc85 (commit before recommit change)
     y: 657
     width: 1680
     height: 260
   m_MinSize: {x: 230, y: 271}
   m_MaxSize: {x: 10000, y: 10021}
   m_ActualView: {fileID: 13}
+<<<<<<< HEAD
+>>>>>>> parent of d9bfc85 (commit before recommit change)
+=======
 >>>>>>> parent of d9bfc85 (commit before recommit change)
   m_Panes:
   - {fileID: 13}
@@ -355,10 +386,17 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 500
     y: 0
     width: 1008
     height: 621
+=======
+    x: 535
+    y: 0
+    width: 1145
+    height: 657
+>>>>>>> parent of d9bfc85 (commit before recommit change)
 =======
     x: 535
     y: 0
@@ -476,15 +514,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 13
     y: 702
     width: 1680
     height: 275
 =======
+=======
+>>>>>>> parent of d9bfc85 (commit before recommit change)
     x: 1920
     y: 730
     width: 1680
     height: 239
+<<<<<<< HEAD
+>>>>>>> parent of d9bfc85 (commit before recommit change)
+=======
 >>>>>>> parent of d9bfc85 (commit before recommit change)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -517,9 +561,15 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 2a600000
     m_LastClickedID: 24618
     m_ExpandedIDs: 000000001c6000001e60000020600000226000002460000026600000286000002a600000
+=======
+    m_SelectedIDs: 1a610000
+    m_LastClickedID: 24858
+    m_ExpandedIDs: 000000001a61000032610000
+>>>>>>> parent of d9bfc85 (commit before recommit change)
 =======
     m_SelectedIDs: 1a610000
     m_LastClickedID: 24858
@@ -553,7 +603,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 000000001c6000001e60000020600000226000002460000026600000286000002a600000
+=======
+    m_ExpandedIDs: 000000001a610000
+>>>>>>> parent of d9bfc85 (commit before recommit change)
 =======
     m_ExpandedIDs: 000000001a610000
 >>>>>>> parent of d9bfc85 (commit before recommit change)
@@ -584,8 +638,13 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000000000002c6f0000
+=======
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000
+>>>>>>> parent of d9bfc85 (commit before recommit change)
 =======
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
@@ -638,15 +697,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 185
     y: 81
     width: 498
     height: 600
 =======
+=======
+>>>>>>> parent of d9bfc85 (commit before recommit change)
     x: 2104
     y: 73
     width: 349
     height: 636
+<<<<<<< HEAD
+>>>>>>> parent of d9bfc85 (commit before recommit change)
+=======
 >>>>>>> parent of d9bfc85 (commit before recommit change)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -686,15 +751,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 13
     y: 81
     width: 171
     height: 600
 =======
+=======
+>>>>>>> parent of d9bfc85 (commit before recommit change)
     x: 1920
     y: 73
     width: 183
     height: 636
+<<<<<<< HEAD
+>>>>>>> parent of d9bfc85 (commit before recommit change)
+=======
 >>>>>>> parent of d9bfc85 (commit before recommit change)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -750,15 +821,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 685
     y: 81
     width: 1007
     height: 600
 =======
+=======
+>>>>>>> parent of d9bfc85 (commit before recommit change)
     x: 2455
     y: 73
     width: 1144
     height: 636
+<<<<<<< HEAD
+>>>>>>> parent of d9bfc85 (commit before recommit change)
+=======
 >>>>>>> parent of d9bfc85 (commit before recommit change)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -1028,9 +1105,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0.8369777, y: 0.2157809, z: 0.09083932}
     speed: 2
     m_Value: {x: 0.8369777, y: 0.2157809, z: 0.09083932}
+=======
+    m_Target: {x: 3.6851666, y: 3.3042448, z: -0.028878482}
+    speed: 2
+    m_Value: {x: 3.6851666, y: 3.3042448, z: -0.028878482}
+>>>>>>> parent of d9bfc85 (commit before recommit change)
 =======
     m_Target: {x: 3.6851666, y: 3.3042448, z: -0.028878482}
     speed: 2
@@ -1086,9 +1169,15 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 3.7756293
     speed: 2
     m_Value: 3.7756293
+=======
+    m_Target: 3.7014186
+    speed: 2
+    m_Value: 3.7014186
+>>>>>>> parent of d9bfc85 (commit before recommit change)
 =======
     m_Target: 3.7014186
     speed: 2
